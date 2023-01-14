@@ -34,9 +34,5 @@ To test the model, run the following command
 
 ## Authors
 
-* **Your Name** - [Your GitHub](https://github.com/yourusername)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+* **Your Name** - [Your GitHub](https://github.com/musfique113)
 
