@@ -20,10 +20,10 @@ Clone the repository to your local machine
 
 ### Usage
 To train the model, run the following command
-```python TrainEmotionDetector.ipynb
+```python TrainEmotionDetector.ipynb ```
 
 To test the model, run the following command
-```python TestEmotionDetector.ipynb
+```python TestEmotionDetector.ipynb ```
 
 
 
