@@ -12,6 +12,7 @@ These instructions will get you a copy of the project up and running on your loc
 - Tensorflow 2.0 or higher
 - OpenCV
 - Numpy
+- keras
 
 ### Installing
 
@@ -31,8 +32,6 @@ To test the model, run the following command
 
 * [Tensorflow](https://www.tensorflow.org/) - The deep learning library used
 * [OpenCV](https://opencv.org/) - Image processing library
+* [keras](https://keras.io/) - Keras is an open-source software library that provides a Python interface for artificial neural networks. 
 
-## Authors
-
-* **Your Name** - [Your GitHub](https://github.com/musfique113)
 
