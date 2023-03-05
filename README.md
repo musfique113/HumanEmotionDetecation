@@ -15,6 +15,11 @@ These instructions will get you a copy of the project up and running on your loc
 - keras
 
 ### Installing
+``` pip install opencv-python
+pip install numpy
+pip install keras
+pip install tensorflow
+```
 
 Clone the repository to your local machine
 
