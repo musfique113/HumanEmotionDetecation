@@ -13,16 +13,16 @@ These instructions will get you a copy of the project up and running on your loc
 - OpenCV
 - Numpy
 - keras
-
-### Installing
-- Clone the repository to your local machine
-
 ``` 
 pip install opencv-python
 pip install numpy
 pip install keras
 pip install tensorflow
 ```
+
+### Installing
+- Clone the repository to your local machine
+
 ### Usage
 To train the model, run the following command
 ```python TrainEmotionDetector.ipynb ```
